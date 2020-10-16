@@ -37,7 +37,7 @@
 <%@ include file="index-nav.jsp" %>
 
 <!-- Page Header -->
-<%@include file="index-pageHeader.jsp"%>
+<%@ include file="index-pageHeader.jsp" %>
 
 <!-- Main Content -->
 <div class="container">
