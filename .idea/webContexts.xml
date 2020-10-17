@@ -4,6 +4,7 @@
     <option name="state">
       <map>
         <entry key="file://$PROJECT_DIR$/src/main/webapp/ch04/taglib-tester.jsp" value="file://$PROJECT_DIR$/src/main/webapp/ch04" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/ch06/el-collection.jsp" value="file://$PROJECT_DIR$/src/main/webapp/ch06" />
         <entry key="file://$PROJECT_DIR$/src/main/webapp/request-header-print.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
       </map>
     </option>

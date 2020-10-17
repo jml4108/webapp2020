@@ -4,3 +4,9 @@ jspservlet/ch04/ResponsiveForm.java
  jspservlet.ch04.ResponsiveForm
 jspservlet/ch03/ServletContextTester.java
  jspservlet.ch03.ServletContextTester
+jspservlet/ch06/domain/Address.java
+ jspservlet.ch06.domain.Address
+jspservlet/ch06/domain/Member.java
+ jspservlet.ch06.domain.Member
+jspservlet/ch06/controller/MemberController.java
+ jspservlet.ch06.controller.MemberController
