@@ -18,10 +18,10 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 dependencies {
-    //compileOnly('javax:javaee-web-api:8.0.1')
     compileOnly('javax:javaee-web-api:8.0.1')
-    compile('javax.servlet:jstl:1.2')
-
+    runtimeOnly('javax.servlet:jstl:1.2')
+    runtimeOnly('com.oracle.database.jdbc:ojdbc6:11.2.0.4')
+    implementation('org.apache.poi:poi-ooxml:4.1.2')
     testImplementation("org.junit.jupiter:junit-jupiter-api:${junitVersion}")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:${junitVersion}")
 }

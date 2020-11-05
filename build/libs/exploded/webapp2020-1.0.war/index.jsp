@@ -14,7 +14,7 @@
 <%= "JSP World!~~~~~~~~" %><br/>
 <!-- <a href="./ch04/responsive-form.html">./ch04/responsive-form.html</a><br/> -->
 <%-- <a href="./ch04/responsive-form">./ch04/responsive-form</a><br/> --%>
-<a href="./ch04/responsive-form.jsp">./ch04/responsive-form.jsp</a> <br/>
+<a href="ch04/responsive-form.jsp">./ch04/responsive-form.jsp</a> <br/>
 <a href="./ch06/member-controller?name=user1">./ch06/member-controller?name=user1</a> <br/>
 <a href="./ch06/member-controller?name=user7">./ch06/member-controller?name=user7</a> <br/>
 </body>
