@@ -10,3 +10,11 @@ jspservlet/ch03/ServletContextTester.java
  jspservlet.ch03.ServletContextTester
 jspservlet/ch06/domain/Address.java
  jspservlet.ch06.domain.Address
+jspservlet/ch08/Member.java
+ jspservlet.ch08.Member
+jspservlet/ch08/RewriteServlet2.java
+ jspservlet.ch08.RewriteServlet2
+jspservlet/ch08/RewriteServlet1.java
+ jspservlet.ch08.RewriteServlet1
+jspservlet/ch08/SessionServlet.java
+ jspservlet.ch08.SessionServlet
