@@ -14,7 +14,7 @@
 <body>
 <h1>Found Name!</h1>
 <%--
-    Member member = (Member) request.getAttribute("member");
+    domain.Member member = (domain.Member) request.getAttribute("member");
     out.println("Name : " + member.getEmail());
 --%>
 <br/>
