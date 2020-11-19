@@ -18,3 +18,13 @@ jspservlet/ch08/RewriteServlet1.java
  jspservlet.ch08.RewriteServlet1
 jspservlet/ch08/SessionServlet.java
  jspservlet.ch08.SessionServlet
+jspservlet/ch11/viewFileRequest.java
+ jspservlet.ch11.viewFileRequest
+jspservlet/ch11/ProcessMultipart.java
+ jspservlet.ch11.ProcessMultipart
+jspservlet/ch11/FileDownloadServlet.java
+ jspservlet.ch11.FileDownloadServlet
+jspservlet/ch11/ThumbnailCtrl.java
+ jspservlet.ch11.ThumbnailCtrl
+jspservlet/ch11/ThumbnailMaker.java
+ jspservlet.ch11.ThumbnailMaker
